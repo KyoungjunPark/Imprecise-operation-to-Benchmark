@@ -4,9 +4,9 @@ import numpy as np
 from skimage import img_as_float
 from scipy.ndimage import distance_transform_edt
 
-IMG_RAW_PATH = 'C:\\Users\\zkalf\\Desktop\\Result\\image.pgm'
-IMG_ORI_PATH = 'C:\\Users\\zkalf\\Desktop\\Result\\image_out(srad1).pgm'
-IMG_COMP_PATH = 'C:\\Users\\zkalf\\Desktop\\Result\\image_out_mod(srad1).pgm'
+IMG_RAW_PATH = 'C:\\Users\\kjpark\\Desktop\\Result\\image.pgm'
+IMG_ORI_PATH = 'C:\\Users\\kjpark\\Desktop\\Result\\image_out(srad1).pgm'
+IMG_COMP_PATH = 'C:\\Users\\kjpark\\Desktop\\Result\\image_out_mod(srad1).pgm'
 
 
 DEFAULT_ALPHA = 1.0 / 9
