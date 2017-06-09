@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-DATA_ORI_PATH = 'C:\\Users\\zkalf\\Desktop\\Result\\BF hotspot\\hotspot\\output.out'
-DATA_COMP_PATH = 'C:\\Users\\zkalf\\Desktop\\Result\\AF hotspot\\hotspot\\output.out'
+DATA_ORI_PATH = 'C:\\Users\\kjpark\\Desktop\\Result\\BF hotspot\\hotspot\\output.out'
+DATA_COMP_PATH = 'C:\\Users\\kjpark\\Desktop\\Result\\AF hotspot\\hotspot\\output.out'
 
 # original
 fp = open(DATA_ORI_PATH, 'r')
