@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 from skimage import data, img_as_float
 from skimage.measure import compare_ssim as ssim
 
-IMAGE_ORI_PATH = 'C:\\Users\\zkalf\\Desktop\\Result\\output.bmp'
-IMAGE_COMP_PATH = 'C:\\Users\\zkalf\\Desktop\\Result\\output_mod.bmp'
+IMAGE_ORI_PATH = 'C:\\Users\\kjpark\\Desktop\\Result\\output.bmp'
+IMAGE_COMP_PATH = 'C:\\Users\\kjpark\\Desktop\\Result\\output_mod.bmp'
 
 imgOri = img_as_float(data.imread(IMAGE_ORI_PATH))
 imgComp = img_as_float(data.imread(IMAGE_COMP_PATH))
